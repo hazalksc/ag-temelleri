@@ -1,4 +1,4 @@
-## Ağ
+# Ağ
 Cihazların birbirleriyle iletişim kurmasını sağlayan yapıdır.
 # Bir ağın 3 ana işi vardır:
 1-Veri paylaşımı
@@ -56,4 +56,5 @@ Ping, iki cihaz arasında bağlantı olup olmadığını test eder.
 ## Traceroute 
 Paketin hedefe giderken hangi cihazlardan geçtiğini gösterir.
 ## nslookup Nedir?
+
 Bu tamamen DNS test aracıdır.Domain adının hangi IP adresine çözüldüğünü gösterir.
